@@ -1,0 +1,21 @@
+
+# Frontend environment variables
+todo_frontend/.env
+todo_frontend/.env.*
+
+# Backend environment variables
+todo_backend/todo/.env
+todo_backend/todo/.env.*
+
+# Dependencies and build output
+todo_frontend/node_modules/
+todo_frontend/dist/
+todo_backend/todo/target/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
